@@ -9,25 +9,25 @@ E-mail: zhangzizhen@gmail.com
 
 ### Education
 
-Ph.D, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
++ Ph.D, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
 
-M.S., Department of Computer Science, Sun Yat-sen University, China, 2007 - 2009.
++ M.S., Department of Computer Science, Sun Yat-sen University, China, 2007 - 2009.
 
-B.S., Department of Computer Science, Sun Yat-sen University, China, 2003 - 2007.
++ B.S., Department of Computer Science, Sun Yat-sen University, China, 2003 - 2007.
 
 ### Working Experience
 
-Associate Professor, School of Data and Computer Science, Sun Yat-Sen University, from Feb. 2017.
++ Associate Professor, School of Data and Computer Science, Sun Yat-Sen University, from Feb. 2017.
 
-Visiting Scholar, Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Oct.2017 - Oct. 2018.
++ Visiting Scholar, Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Oct.2017 - Oct. 2018.
 
-Assistant Professor, School of Data and Computer Science, Sun Yat-Sen University, Mar. 2014 - Feb. 2017.
++ Assistant Professor, School of Data and Computer Science, Sun Yat-Sen University, Mar. 2014 - Feb. 2017.
 
-Visiting Scholar, Department of Industrial Engineering and Logistics Management, The Hong Kong University of Technology and Science, Feb. 2014 - Jul. 2014.
++ Visiting Scholar, Department of Industrial Engineering and Logistics Management, The Hong Kong University of Technology and Science, Feb. 2014 - Jul. 2014.
 
-Senior Research Assistant, Department of Management Sciences, City University of Hong Kong. Jul. 2009 - Jul. 2010.
++ Senior Research Assistant, Department of Management Sciences, City University of Hong Kong. Jul. 2009 - Jul. 2010.
 
-Intern of R&D Engineer, Baidu Inc. China. Jul. 2008 - Oct. 2008.
++ Intern of R&D Engineer, Baidu Inc. China. Jul. 2008 - Oct. 2008.
 
 ### Research Interests
 
@@ -36,7 +36,6 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 
 ### Journal Papers
 
-```markdown
 1. "GMMA: GPU-based multiobjective memetic algorithms for vehicle routing problem with route balancing", Zizhen Zhang, Yuyan Sun, Hong Xie, Yi Teng, JiahaiWang. Applied Intelligence, Volume 49, Issue 1, Pages 63-78, Jan 2019.
 2. "The quay crane scheduling problem with stability constraints", Zizhen Zhang, Ming Liu, Chung-Yee Lee, Jiahai Wang. IEEE Transactions on Automation Science and Engineering, Volume 15, Issue 3, Pages 1399-1412, July 2018.
 3. "Manpower allocation and vehicle routing problem in non-emergency ambulance transfer service", Zizhen Zhang, Hu Qin, Kai Wang, Huang He, Tian Liu. Transportation Research Part E, Volume 106, Pages 45-59, 2017.
@@ -58,16 +57,13 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 19. "Multi-objective optimization for the vehicle routing problem with outsourcing and profit balancing", Zizhen Zhang, Yanzhi Li, Hu Qin. IEEE Transactions on Intelligent Transportation Systems, accepted.
 20. "Multiobjective Multiple Neighborhood Search Algorithms for Multiobjective Fleet Size and Mix Location-Routing Problem With Time Windows", Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 21. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
-```
 
 ### Projects
 
-```markdown
 1. National Natural Science Foundation of China (No. 71601191).
 2. Guangdong Natural Science Funds (No. 2016A030313264).
 3. Guangdong Natural Science Funds (No. 2014A030310312).
 4. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
-```
 
 
 ```markdown
