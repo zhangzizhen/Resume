@@ -38,9 +38,7 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 
 ```markdown
 1. "GMMA: GPU-based multiobjective memetic algorithms for vehicle routing problem with route balancing", Zizhen Zhang, Yuyan Sun, Hong Xie, Yi Teng, JiahaiWang. Applied Intelligence, Volume 49, Issue 1, Pages 63-78, Jan 2019.  
-
 2. "The quay crane scheduling problem with stability constraints", Zizhen Zhang, Ming Liu, Chung-Yee Lee, Jiahai Wang. IEEE Transactions on Automation Science and Engineering, Volume 15, Issue 3, Pages 1399-1412, July 2018.  
-
 3. "Manpower allocation and vehicle routing problem in non-emergency ambulance transfer service", Zizhen Zhang, Hu Qin, Kai Wang, Huang He, Tian Liu. Transportation Research Part E, Volume 106, Pages 45-59, 2017.
 4. "A feasibility-based heuristic for the container pre-marshalling problem", NingWang, Bo Jin, Zizhen Zhang, Andrew Lim. European Journal of Operational Research, Volume 256, Pages 90-101, 2017.
 5. "Multiobjective approaches for the ship stowage planning problem considering ship stability and container rehandles", Zizhen Zhang, Chung-Yee Lee. IEEE Transaction on Systems, Man, and Cybernetics: Systems, Volume 46, Issue 10, Pages 1374-1389, October 2016.
@@ -61,6 +59,15 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 20. "Multiobjective Multiple Neighborhood Search Algorithms for Multiobjective Fleet Size and Mix Location-Routing Problem With Time Windows", Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 21. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 
+```
+
+### Projects
+
+```markdown
+1. National Natural Science Foundation of China (No. 71601191).
+2. Guangdong Natural Science Funds (No. 2016A030313264).
+3. Guangdong Natural Science Funds (No. 2014A030310312).
+4. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
 ```
 
 
