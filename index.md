@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Zizhen Zhang (张子臻)
 
-You can use the [editor on GitHub](https://github.com/zhangzizhen/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact Information
 
-### Markdown
+School of Data and Computer Science, Sun Yat-Sen University, Guangzhou, Guangdong, China
+E-mail: zhangzizhen@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
