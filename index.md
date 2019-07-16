@@ -1,4 +1,4 @@
-## Zizhen Zhang (张子臻)
+## Zizhen Zhang
 
 Recently I am working on Deep Reinforcement Learning for Combinatorial Optimization Problem. 
 
@@ -17,23 +17,16 @@ E-mail: zhangzizhen@gmail.com
 ### Education
 
 + Ph.D, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
-
 + M.S., Department of Computer Science, Sun Yat-sen University, China, 2007 - 2009.
-
 + B.S., Department of Computer Science, Sun Yat-sen University, China, 2003 - 2007.
 
 ### Working Experience
 
 + Associate Professor, School of Data and Computer Science, Sun Yat-Sen University, from Feb. 2017.
-
 + Visiting Scholar, Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Oct.2017 - Oct. 2018.
-
 + Assistant Professor, School of Data and Computer Science, Sun Yat-Sen University, Mar. 2014 - Feb. 2017.
-
 + Visiting Scholar, Department of Industrial Engineering and Logistics Management, The Hong Kong University of Technology and Science, Feb. 2014 - Jul. 2014.
-
 + Senior Research Assistant, Department of Management Sciences, City University of Hong Kong. Jul. 2009 - Jul. 2010.
-
 + Intern of R&D Engineer, Baidu Inc. China. Jul. 2008 - Oct. 2008.
 
 ### Research Interests
