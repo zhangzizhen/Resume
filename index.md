@@ -16,7 +16,7 @@ E-mail: zhangzizhen@gmail.com
 
 ### Education
 
-+ Ph.D, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
++ `Ph.D`, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
 + M.S., Department of Computer Science, Sun Yat-sen University, China, 2007 - 2009.
 + B.S., Department of Computer Science, Sun Yat-sen University, China, 2003 - 2007.
 
