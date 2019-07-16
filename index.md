@@ -35,10 +35,6 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 
 
 ### Journal Papers
-<style>
-table th:first-of-type {
-	width: 300px;
-}
 
 ```markdown
 1. "GMMA: GPU-based multiobjective memetic algorithms for vehicle routing problem with route balancing", Zizhen Zhang, Yuyan Sun, Hong Xie, Yi Teng, JiahaiWang. Applied Intelligence, Volume 49, Issue 1, Pages 63-78, Jan 2019.
@@ -64,7 +60,6 @@ table th:first-of-type {
 21. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 
 ```
-</style>
 
 
 ```markdown
