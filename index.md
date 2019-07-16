@@ -1,5 +1,12 @@
 ## Zizhen Zhang (张子臻)
 
+Recently I am working on Deep Reinforcement Learning for Combinatorial Optimization Problem. 
+
++ Neural combinatorial optimization with reinforcement learning.pdf
++ ATTENTION LEARN TO SOLVE ROUTING PROBLEMS.pdf
++ Reinforcement Learning for Solving the Vehicle Routing Problem.pdf
++ pointer networks.pdf
+
 
 ### Contact Information
 
