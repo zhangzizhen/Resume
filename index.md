@@ -3,7 +3,7 @@
 Recently I am working on Deep Reinforcement Learning for Combinatorial Optimization Problem. 
 
 + Neural combinatorial optimization with reinforcement learning.pdf
-+ ATTENTION LEARN TO SOLVE ROUTING PROBLEMS.pdf
++ Attention learn to solve routing problems.pdf
 + Reinforcement Learning for Solving the Vehicle Routing Problem.pdf
 + pointer networks.pdf
 
@@ -16,7 +16,7 @@ E-mail: zhangzizhen@gmail.com
 
 ### Education
 
-+ `Ph.D`, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
++ Ph.D, Department of Management Sciences, City University of Hong Kong, 2011 - 2014.
 + M.S., Department of Computer Science, Sun Yat-sen University, China, 2007 - 2009.
 + B.S., Department of Computer Science, Sun Yat-sen University, China, 2003 - 2007.
 
