@@ -37,7 +37,7 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 ### Journal Papers
 <style>
 table th:first-of-type {
-	width: 100px;
+	width: 300px;
 }
 </style>
 ```markdown
