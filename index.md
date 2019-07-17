@@ -94,4 +94,4 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 
 ### Benefits
 
-I am closely connected to many scholars in Hong Kong. I have recommended several students to pursue their Ph.D degrees in Hong Kong.
+I am closely connected to many professors in Hong Kong. I have recommended several students to pursue their Ph.D degrees in Hong Kong.
