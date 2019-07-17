@@ -3,7 +3,7 @@
 Recently I am working on Deep Reinforcement Learning for Combinatorial Optimization Problem. 
 
 + Neural combinatorial optimization with reinforcement learning.pdf
-+ Attention learn to solve routing problems.pdf (https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf)
++ [Attention learn to solve routing problems.pdf] (https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf)
 + Reinforcement Learning for Solving the Vehicle Routing Problem.pdf
 + pointer networks.pdf
 
