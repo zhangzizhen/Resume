@@ -17,7 +17,6 @@ Learning + Optimization:
 ### Contact Information
 
 School of Data and Computer Science, Sun Yat-Sen University, Guangzhou, Guangdong, China
-
 E-mail: zhangzizhen@gmail.com
 
 ### Education
