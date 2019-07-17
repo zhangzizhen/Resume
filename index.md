@@ -3,7 +3,7 @@
 Recently I am working on Deep Reinforcement Learning for Combinatorial Optimization Problem. 
 
 + Neural combinatorial optimization with reinforcement learning.pdf
-+ Attention learn to solve routing problems.pdf
++ Attention learn to solve routing problems.pdf (https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf)
 + Reinforcement Learning for Solving the Vehicle Routing Problem.pdf
 + pointer networks.pdf
 
@@ -66,29 +66,6 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 4. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangzizhen/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
