@@ -4,6 +4,7 @@ I am a coach of SYSU ACM/ICPC team. I also act as a committee member for univers
 
 Recently I am working on Deep Reinforcement Learning and its applications in Combinatorial Optimization Problems, using AlphaGo-like techniques. If you are interested in this promising area, please read the following papers and contact me.
 
+Learning + Optimization:
 + [Mastering the game of Go without human knowledge](https://github.com/zhangzizhen/Resume/blob/master/paper/Mastering%20the%20game%20of%20Go%20without%20human%20knowledge.pdf)
 + [Pointer networks](https://github.com/zhangzizhen/Resume/blob/master/paper/pointer%20networks.pdf)
 + [Neural combinatorial optimization with reinforcement learning](https://github.com/zhangzizhen/Resume/blob/master/paper/Neural%20combinatorial%20optimization%20with%20reinforcement%20learning.pdf)
