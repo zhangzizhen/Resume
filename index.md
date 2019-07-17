@@ -6,7 +6,7 @@ Recently I am working on Deep Reinforcement Learning for Combinatorial Optimizat
 + [Pointer networks](https://github.com/zhangzizhen/Resume/blob/master/paper/pointer%20networks.pdf)
 + [Neural combinatorial optimization with reinforcement learning](https://github.com/zhangzizhen/Resume/blob/master/paper/Neural%20combinatorial%20optimization%20with%20reinforcement%20learning.pdf)
 + [Attention learn to solve routing problems](https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf/)
-+ [Reinforcement Learning for Solving the Vehicle Routing Problem](https://github.com/zhangzizhen/Resume/blob/master/paper/Reinforcement%20Learning%20for%20Solving%20the%20Vehicle%20Routing%20Problem.pdf)
++ [Reinforcement learning for solving the vehicle routing problem](https://github.com/zhangzizhen/Resume/blob/master/paper/Reinforcement%20Learning%20for%20Solving%20the%20Vehicle%20Routing%20Problem.pdf)
 + [Learning combinatorial optimization algorithms over graphs](https://github.com/zhangzizhen/Resume/blob/master/paper/Learning%20combinatorial%20optimization%20algorithms%20over%20graphs.pdf)
 
 
@@ -60,6 +60,27 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 20. "Multiobjective Multiple Neighborhood Search Algorithms for Multiobjective Fleet Size and Mix Location-Routing Problem With Time Windows", Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 21. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 
+
+### Conference Papers
+
+1. "Impacts of vertical information transparency on an agricultural supply chain", Mingzhu Yu, Qi Wang, Zelong Yi, Zizhen Zhang. The 8th International Conference on Industrial Engineering and Systems Management (IESM 2019).
+2. "Restricted neighborhood search for large scale vehicle routing problems", Hong Liu, Zizhen Zhang*, Xiwang Guo. 16th IEEE International Conference on Networking, Sensing and Control (IEEE ICNSC 2019).
+3. "Multiobjective optimization approaches to airline crew rostering problems: a case study", Zizhen Zhang, Mengchu Zhou, Songshan Guo. 14th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2018).
+4. "Forest-based approach to split-delivery capacitated arc-routing problem", Qidong Lai, Zizhen Zhang*. 14th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2018).
+5. "Adaptive ant colony optimization for solving the parking lot assignment problem", Youchi Zhang, Zizhen Zhang*, Shaohua Teng. The 14th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD 2018).
+6. "Solving the last mile delivery problem using iterated local search approach", Zhongkai Cai, Zizhen Zhang*, Huang He. 15th IEEE International Conference on Networking, Sensing and Control (IEEE ICNSC 2018).
+7. "A hybrid algorithm for the vehicle routing problem with compatibility constraints", Can Liu, Zizhen Zhang*, Xinxin Su, Hu Qin. 15th IEEE International Conference on Networking, Sensing and Control (IEEE ICNSC 2018).
+8. "M-NSGA-II: a memetic algorithm for vehicle routing problem with route balancing", Yuyan Sun, Yuxuan Liang, Zizhen Zhang*, Jiahai Wang. 30th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA-AIE 2017)
+9. "A mathematical model for container port integrated scheduling and optimization problem", Ming Liu, Zizhen Zhang*, Feng Chu. 2015 IEEE International Conference on Logistics, Informatics and Service Sciences (IEEE LISS 2015).
+10. "An efficient forest-based tabu search algorithm for the split-delivery vehicle routing problem", Zizhen Zhang, Huang He, Zhixing Luo, Hu Qin, Songshan Guo. The 29th AAAI Conference on Articial Intelligence. (AAAI-15)
+11. "A branch-and-bound algorithm for the talent scheduling problem", Xiaocong Liang, Zizhen Zhang*, Hu Qin, Songshan Guo, Andrew Lim. 27th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2014)
+12. "The stowage stack minimization problem with zero rehandle constraint", Ning Wang, Zizhen Zhang*, Andrew Lim. 23th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2014)
+13. "The multi-period profit collection vehicle routing problem with time windows", Yubin Xie, Zizhen Zhang*, Hu Qin, Songshan Guo, Andrew Lim. 23th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2014)
+14. "A tree-based tabu search for the manpower allocation problem with time windows and job-teaming constraints", Yilin Cai, Zizhen Zhang, Songshan Guo, Hu Qin, Andrew Lim. The 23rd International Joint Conference on Artificial Intelligence. (IJCAI 2013)
+15. "A genetic algorithm for the freight consolidation problem with one-dimensional container loading", Zizhen Zhang, Hu Qin, Andrew Lim. 2011 Genetic and Evolutionary Computation Conference. (GECCO 2011).
+16. "A memetic algorithm for solving multiperiod vehicle routing problem with profit", Chan Hou Che, Zizhen Zhang, Andrew Lim. 2011 Genetic and Evolutionary Computation Conference. (GECCO 2011)
+17. "Branch and bound algorithm for a single vehicle routing problem with toll-by-weight scheme", Zizhen Zhang, Hu Qin, Andrew Lim, Songshan Guo. 23rd International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2010)
+
 ### Projects
 
 1. National Natural Science Foundation of China (No. 71601191).
@@ -67,8 +88,3 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 3. Guangdong Natural Science Funds (No. 2014A030310312).
 4. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
 
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
