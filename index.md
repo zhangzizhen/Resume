@@ -11,6 +11,7 @@ Recently I am working on Deep Reinforcement Learning and its applications in Com
 + [Reinforcement learning for solving the vehicle routing problem](https://github.com/zhangzizhen/Resume/blob/master/paper/Reinforcement%20Learning%20for%20Solving%20the%20Vehicle%20Routing%20Problem.pdf)
 + [Learning combinatorial optimization algorithms over graphs](https://github.com/zhangzizhen/Resume/blob/master/paper/Learning%20combinatorial%20optimization%20algorithms%20over%20graphs.pdf)
 
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig.jpg)
 
 ### Contact Information
 
