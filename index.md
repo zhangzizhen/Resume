@@ -1,8 +1,8 @@
 ## Zizhen Zhang
 
-I am a coach of SYSU ACM/ICPC team. I also act as a committee member for universal education of computing in Guangdong. My research interests are broadly in the area of AI (artificial intelligence) and OR (operations research).
+I am a coach of SYSU ACM/ICPC team. I also act as a committee member for Youth Education of Computing in Guangdong. My research interests are broadly in the area of AI (artificial intelligence) and OR (operations research).
 
-Recently I am working on Deep Reinforcement Learning and its applications in Combinatorial Optimization Problems, using AlphaGo-like techniques. If you are interested in this promising area, please read the following papers and contact me.
+Recently I am working on Deep Reinforcement Learning and its applications in Combinatorial Optimization Problems, using AlphaGo-like techniques. If you are interested in this promising area, please read the following papers and discuss with me.
 
 Learning + Optimization:
 + [Mastering the game of Go without human knowledge](https://github.com/zhangzizhen/Resume/blob/master/paper/Mastering%20the%20game%20of%20Go%20without%20human%20knowledge.pdf)
