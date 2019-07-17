@@ -2,10 +2,12 @@
 
 Recently I am working on Deep Reinforcement Learning for Combinatorial Optimization Problem. 
 
-+ Neural combinatorial optimization with reinforcement learning.pdf
-+ [Attention learn to solve routing problems.pdf](https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf/)
-+ Reinforcement Learning for Solving the Vehicle Routing Problem.pdf
-+ pointer networks.pdf
++ [Mastering the game of Go without human knowledge](https://github.com/zhangzizhen/Resume/blob/master/paper/Mastering%20the%20game%20of%20Go%20without%20human%20knowledge.pdf)
++ [Pointer networks](https://github.com/zhangzizhen/Resume/blob/master/paper/pointer%20networks.pdf)
++ [Neural combinatorial optimization with reinforcement learning](https://github.com/zhangzizhen/Resume/blob/master/paper/Neural%20combinatorial%20optimization%20with%20reinforcement%20learning.pdf)
++ [Attention learn to solve routing problems](https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf/)
++ [Reinforcement Learning for Solving the Vehicle Routing Problem](https://github.com/zhangzizhen/Resume/blob/master/paper/Reinforcement%20Learning%20for%20Solving%20the%20Vehicle%20Routing%20Problem.pdf)
++ [Learning combinatorial optimization algorithms over graphs](https://github.com/zhangzizhen/Resume/blob/master/paper/Learning%20combinatorial%20optimization%20algorithms%20over%20graphs.pdf)
 
 
 ### Contact Information
