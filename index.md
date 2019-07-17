@@ -64,7 +64,7 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 21. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted. [pdf](https://github.com/zhangzizhen/Resume/blob/master/publication/IEEE%20SMC-Enhanced%20Branch-and-Bound%20Framework%20for%20a%20Class%20of%20Sequencing%20Problems.pdf)
 
 
-### Conference Papers
+### International Conference Papers
 
 1. "Impacts of vertical information transparency on an agricultural supply chain", Mingzhu Yu, Qi Wang, Zelong Yi, Zizhen Zhang. The 8th International Conference on Industrial Engineering and Systems Management (IESM 2019).
 2. "Restricted neighborhood search for large scale vehicle routing problems", Hong Liu, Zizhen Zhang*, Xiwang Guo. 16th IEEE International Conference on Networking, Sensing and Control (IEEE ICNSC 2019).
