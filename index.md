@@ -28,7 +28,7 @@ E-mail: zhangzizhen@gmail.com
 + Visiting Scholar, Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Oct.2017 - Oct. 2018.
 + Assistant Professor, School of Data and Computer Science, Sun Yat-Sen University, Mar. 2014 - Feb. 2017.
 + Visiting Scholar, Department of Industrial Engineering and Logistics Management, The Hong Kong University of Technology and Science, Feb. 2014 - Jul. 2014.
-+ Senior Research Assistant, Department of Management Sciences, City University of Hong Kong. Jul. 2009 - Jul. 2010.
++ Senior Research Assistant, Department of Management Sciences, City University of Hong Kong. 2009 - 2011.
 + Intern of R&D Engineer, Baidu Inc. China. Jul. 2008 - Oct. 2008.
 
 ### Research Interests
