@@ -99,11 +99,11 @@ I am closely connected to many professors in Hong Kong. I have recommended sever
 ### Gallery
 
 
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/1.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/2.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/3.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/4.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/5.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/6.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/7.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/8.png?raw=true" width="25%" title="产品图片" alt="产品图片" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/1.png?raw=true" width="30%" title="EC-Final" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/2.png?raw=true" width="30%" title="WF-2018" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/3.png?raw=true" width="30%" title="WF-2019" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/4.png?raw=true" width="30%" title="Google Mountain View" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/5.png?raw=true" width="30%" title="Google Discussion" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/6.png?raw=true" width="30%" title="Last Visit NJIT" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/7.png?raw=true" width="30%" title="Shenzhen Research Team" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/8.png?raw=true" width="30%" title="VRP Conference" />
