@@ -98,4 +98,11 @@ I am closely connected to many professors in Hong Kong. I have recommended sever
 
 ### Gallery
 
-![Fig](https://github.com/zhangzizhen/Resume/fig/blob/master/1.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/1.png?raw=true) Hello
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/2.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/3.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/4.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/5.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/6.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/7.png?raw=true)
+![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig/8.png?raw=true)
