@@ -106,4 +106,4 @@ I am closely connected to many professors in Hong Kong. I have recommended sever
 <img src="https://github.com/zhangzizhen/Resume/blob/master/fig/5.png?raw=true" width="30%" title="Google Discussion" />
 <img src="https://github.com/zhangzizhen/Resume/blob/master/fig/6.png?raw=true" width="30%" title="Last Visit NJIT" />
 <img src="https://github.com/zhangzizhen/Resume/blob/master/fig/7.png?raw=true" width="30%" title="Shenzhen Research Team" />
-<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/8.png?raw=true" width="30%" title="VRP Conference" />
+<img src="https://github.com/zhangzizhen/Resume/blob/master/fig/8.png?raw=true" width="60%" title="VRP Conference" />
