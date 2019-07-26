@@ -5,12 +5,12 @@ I am a coach of SYSU ACM/ICPC team. I also act as a committee member for Youth E
 Recently I am working on Deep Reinforcement Learning and its applications in Combinatorial Optimization Problems, using AlphaGo-like techniques. If you are interested in this promising area, please read the following papers and discuss with me.
 
 Learning + Optimization:
-+ [Mastering the game of Go without human knowledge](https://github.com/zhangzizhen/Resume/blob/master/paper/Mastering%20the%20game%20of%20Go%20without%20human%20knowledge.pdf)
-+ [Pointer networks](https://github.com/zhangzizhen/Resume/blob/master/paper/pointer%20networks.pdf)
-+ [Neural combinatorial optimization with reinforcement learning](https://github.com/zhangzizhen/Resume/blob/master/paper/Neural%20combinatorial%20optimization%20with%20reinforcement%20learning.pdf)
-+ [Attention learn to solve routing problems](https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf/)
-+ [Reinforcement learning for solving the vehicle routing problem](https://github.com/zhangzizhen/Resume/blob/master/paper/Reinforcement%20Learning%20for%20Solving%20the%20Vehicle%20Routing%20Problem.pdf)
-+ [Learning combinatorial optimization algorithms over graphs](https://github.com/zhangzizhen/Resume/blob/master/paper/Learning%20combinatorial%20optimization%20algorithms%20over%20graphs.pdf)
++ [Mastering the game of Go without human knowledge](https://github.com/zhangzizhen/Resume/blob/master/paper/Mastering%20the%20game%20of%20Go%20without%20human%20knowledge.pdf?raw=true)
++ [Pointer networks](https://github.com/zhangzizhen/Resume/blob/master/paper/pointer%20networks.pdf?raw=true)
++ [Neural combinatorial optimization with reinforcement learning](https://github.com/zhangzizhen/Resume/blob/master/paper/Neural%20combinatorial%20optimization%20with%20reinforcement%20learning.pdf?raw=true)
++ [Attention learn to solve routing problems](https://github.com/zhangzizhen/Resume/blob/master/paper/ATTENTION%20LEARN%20TO%20SOLVE%20ROUTING%20PROBLEMS.pdf?raw=true)
++ [Reinforcement learning for solving the vehicle routing problem](https://github.com/zhangzizhen/Resume/blob/master/paper/Reinforcement%20Learning%20for%20Solving%20the%20Vehicle%20Routing%20Problem.pdf?raw=true)
++ [Learning combinatorial optimization algorithms over graphs](https://github.com/zhangzizhen/Resume/blob/master/paper/Learning%20combinatorial%20optimization%20algorithms%20over%20graphs.pdf?raw=true)
 
 ![Fig](https://github.com/zhangzizhen/Resume/blob/master/fig.jpg?raw=true)
 
