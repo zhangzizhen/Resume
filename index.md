@@ -64,8 +64,8 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 20. "Multi-objective optimization for the vehicle routing problem with outsourcing and profit balancing", Zizhen Zhang, Yanzhi Li, Hu Qin. IEEE Transactions on Intelligent Transportation Systems, accepted. [pdf](https://github.com/zhangzizhen/Resume/blob/master/publication/IEEE%20ITS-Multi-Objective%20Optimization%20for%20the%20Vehicle%20Routing%20Problem%20With%20Outsourcing%20and%20Profit%20Balancing.pdf?raw=true)
 21. "Multiobjective Multiple Neighborhood Search Algorithms for Multiobjective Fleet Size and Mix Location-Routing Problem With Time Windows", Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted. [pdf](https://github.com/zhangzizhen/Resume/blob/master/publication/IEEE%20SMC-Multiobjective%20Multiple%20Neighborhood%20Search%20Algorithms%20for%20Multiobjective%20Fleet%20Size%20and%20Mix%20Location-Routing%20Problem%20With%20Time%20Windows.pdf?raw=true)
 22. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted. [pdf](https://github.com/zhangzizhen/Resume/blob/master/publication/IEEE%20SMC-Enhanced%20Branch-and-Bound%20Framework%20for%20a%20Class%20of%20Sequencing%20Problems.pdf?raw=true)
-23. “Construction-based Optimization Approaches to Airline Crew Rostering Problems”, Zizhen Zhang, Mengchu Zhou, Jiahai Wang. IEEE Transactions on Automation Science and Engineering, accepted.
-
+23. "Construction-based Optimization Approaches to Airline Crew Rostering Problems", Zizhen Zhang, Mengchu Zhou, Jiahai Wang. IEEE Transactions on Automation Science and Engineering, accepted.
+24. "Planning of Garbage Collection Service: An Arc-Routing Problem With Time-Dependent Penalty Cost", Xin Jin, Hu Qin, Zizhen Zhang*, MengChu Zhou, Jiahai Wang. IEEE Transactions on Intelligent Transportation Systems, accepted.
 
 
 ### International Conference Papers
