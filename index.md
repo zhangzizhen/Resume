@@ -92,9 +92,10 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 ### Projects
 
 1. National Natural Science Foundation of China (No. 71601191).
-2. Guangdong Natural Science Funds (No. 2016A030313264).
-3. Guangdong Natural Science Funds (No. 2014A030310312).
-4. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
+2. Guangdong Natural Science Funds (No. 2019A1515011169).
+3. Guangdong Natural Science Funds (No. 2016A030313264).
+4. Guangdong Natural Science Funds (No. 2014A030310312).
+5. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
 
 ### Benefits
 
