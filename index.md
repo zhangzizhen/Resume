@@ -67,6 +67,8 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 23. "Construction-based Optimization Approaches to Airline Crew Rostering Problems", Zizhen Zhang, Mengchu Zhou, Jiahai Wang. IEEE Transactions on Automation Science and Engineering, accepted.
 24. "Planning of Garbage Collection Service: An Arc-Routing Problem With Time-Dependent Penalty Cost", Xin Jin, Hu Qin, Zizhen Zhang*, MengChu Zhou, Jiahai Wang. IEEE Transactions on Intelligent Transportation Systems, accepted.
 25. "Solving Multitrip Pickup and Delivery Problem With Time Windows and Manpower Planning Using Multiobjective Algorithms", Jiahai Wang, Yuyan Sun, Zizhen Zhang, Shangce Gao. IEEE/CAA Journal of Automatica Sinica, accepted.
+26.  "Split-Delivery Capacitated Arc-Routing Problem with Time Windows", Qidong Lai, Zizhen Zhang*, Mingzhu Yu, Jiahai Wang. IEEE Transactions on Intelligent Transportation Systems, accepted.
+
 
 ### International Conference Papers
 
