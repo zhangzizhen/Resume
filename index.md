@@ -99,6 +99,14 @@ Large scale combinatorial optimization; Reinforcement learning; Planning and sch
 4. Guangdong Natural Science Funds (No. 2014A030310312).
 5. Fundamental Research Funds for the Central Universities (No. 15LGPY37).
 
+### Couse Teaching
+
+1. Algorithm Design and Analysis
+2. Data Structures and Algorithms
+3. Artificial Intelligence
+4. Programming Design (C++)
+5. Reinforcement Learning (Short Lectures)
+
 ### Benefits
 
 I am closely connected with many professors in Hong Kong. I have recommended several students to pursue their Ph.D degrees in Hong Kong.
