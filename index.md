@@ -72,7 +72,7 @@ Large scale combinatorial optimization; Deep Reinforcement learning; Planning an
 27. "Split-Delivery Capacitated Arc-Routing Problem with Time Windows", Qidong Lai, Zizhen Zhang*, Mingzhu Yu, Jiahai Wang. IEEE Transactions on Intelligent Transportation Systems, accepted.
 28. "Cooperative Multiobjective Evolutionary Algorithm With Propulsive Population for Constrained Multiobjective Optimization", Jiahai Wang, Yanyue Li, Qingfu Zhang, Zizhen Zhang, Shangce Gao. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 29. "Benefits of Market Information and Professional Advice in a Vertical Agricultural Supply Chain: The Role of Government Provision", Mingzhu Yu, Zelong Yi, Qi Wang, Zizhen Zhang. International Journal of Production Research, accepted.
-30. "Solving Dynamic Traveling Salesman Problems with Deep Reinforcement Learning, Zizhen Zhang, Hong Liu*, Mengchu Zhou, Jiahai Wang. \emph{IEEE Transactions on Neural Networks and Learning Systems, minor revision.
+30. "Solving Dynamic Traveling Salesman Problems with Deep Reinforcement Learning, Zizhen Zhang, Hong Liu*, Mengchu Zhou, Jiahai Wang. IEEE Transactions on Neural Networks and Learning Systems, minor revision.
 
 
 ### International Conference Papers
@@ -87,7 +87,7 @@ Large scale combinatorial optimization; Deep Reinforcement learning; Planning an
 8. "A hybrid algorithm for the vehicle routing problem with compatibility constraints", Can Liu, Zizhen Zhang*, Xinxin Su, Hu Qin. 15th IEEE International Conference on Networking, Sensing and Control (IEEE ICNSC 2018).
 9. "M-NSGA-II: a memetic algorithm for vehicle routing problem with route balancing", Yuyan Sun, Yuxuan Liang, Zizhen Zhang*, Jiahai Wang. 30th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA-AIE 2017)
 10. "A mathematical model for container port integrated scheduling and optimization problem", Ming Liu, Zizhen Zhang*, Feng Chu. 2015 IEEE International Conference on Logistics, Informatics and Service Sciences (IEEE LISS 2015).
-11. "An efficient forest-based tabu search algorithm for the split-delivery vehicle routing problem", Zizhen Zhang, Huang He, Zhixing Luo, Hu Qin, Songshan Guo. The 29th AAAI Conference on Articial Intelligence. (AAAI-15)
+11. "An efficient forest-based tabu search algorithm for the split-delivery vehicle routing problem", Zizhen Zhang, Huang He, Zhixing Luo, Hu Qin, Songshan Guo. The 29th AAAI Conference on Artificial Intelligence. (AAAI-15)
 12. "A branch-and-bound algorithm for the talent scheduling problem", Xiaocong Liang, Zizhen Zhang*, Hu Qin, Songshan Guo, Andrew Lim. 27th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2014)
 13. "The stowage stack minimization problem with zero rehandle constraint", Ning Wang, Zizhen Zhang*, Andrew Lim. 23th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2014)
 14. "The multi-period profit collection vehicle routing problem with time windows", Yubin Xie, Zizhen Zhang*, Hu Qin, Songshan Guo, Andrew Lim. 23th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems. (IEA-AIE 2014)
