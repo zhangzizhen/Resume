@@ -42,7 +42,7 @@ Large scale combinatorial optimization; Deep Reinforcement learning; Planning an
 
 ### Journal Papers
 
-1. "Solving Dynamic Traveling Salesman Problems with Deep Reinforcement Learning, Zizhen Zhang, Hong Liu*, Mengchu Zhou, Jiahai Wang. IEEE Transactions on Neural Networks and Learning Systems, 2021.
+1. "Solving Dynamic Traveling Salesman Problems with Deep Reinforcement Learning, Zizhen Zhang, Hong Liu*, Mengchu Zhou, Jiahai Wang. IEEE Transactions on Neural Networks and Learning Systems, 2021. [pdf](https://github.com/zhangzizhen/Resume/blob/master/publication/2021-IEEE%20TNNLS-Solving%20Dynamic%20Traveling%20Salesman%20Problems%20With%20Deep%20Reinforcement%20Learning.pdf?raw=true)
 2. "The Inbound Container Space Allocation in the Automatic Container Terminals Using Simulation-based Optimization", Mingzhu Yu, Zhuobin Liang, Yi Teng, Zizhen Zhang*, Xuwen Cong. Expert Systems with Applications, Volume 179, 115014, October 2021.
 3. "Planning of Garbage Collection Service: An Arc-Routing Problem With Time-Dependent Penalty Cost", Xin Jin, Hu Qin, Zizhen Zhang*, MengChu Zhou, Jiahai Wang. IEEE Transactions on Intelligent Transportation Systems, Volume 22, Issue 5, Pages 2692-2705, May 2021.
 4. "Enhanced Branch-and-Bound Framework for a Class of Sequencing Problems", Zizhen Zhang, Luyao Teng, MengChu Zhou, Jiahai Wang, Hua Wang. IEEE Transactions on Systems, Man and Cybernetics: Systems, Volume 51, Issue 5, Pages 2726-2736, May 2021.
