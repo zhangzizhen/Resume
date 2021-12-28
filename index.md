@@ -73,7 +73,8 @@ Large scale combinatorial optimization; Deep Reinforcement learning; Planning an
 28. "Split-Delivery Capacitated Arc-Routing Problem with Time Windows", Qidong Lai, Zizhen Zhang*, Mingzhu Yu, Jiahai Wang. IEEE Transactions on Intelligent Transportation Systems, accepted.
 29. "Cooperative Multiobjective Evolutionary Algorithm With Propulsive Population for Constrained Multiobjective Optimization", Jiahai Wang, Yanyue Li, Qingfu Zhang, Zizhen Zhang, Shangce Gao. IEEE Transactions on Systems, Man and Cybernetics: Systems, accepted.
 30. "Benefits of Market Information and Professional Advice in a Vertical Agricultural Supply Chain: The Role of Government Provision", Mingzhu Yu, Zelong Yi, Qi Wang, Zizhen Zhang. International Journal of Production Research, accepted.
-31. "Meta-Learning-Based Deep Reinforcement Learning for Multiobjective Optimization Problems", Zizhen Zhang, Zhiyuan Wu, Jiahai Wang, Hang Zhang. IEEE Transactions on Neural Networks and Learning Systems.
+31. "Two-echelon Vehicle Routing Problem with Time Windows and Simultaneous Pickup and Delivery", Hang Zhou, Hu Qin, Zizhen Zhang*, Jiliu Li, Soft Computing, accepted.
+32. "Meta-Learning-Based Deep Reinforcement Learning for Multiobjective Optimization Problems", Zizhen Zhang, Zhiyuan Wu, Jiahai Wang, Hang Zhang. IEEE Transactions on Neural Networks and Learning Systems.
 
 
 ### International Conference Papers
